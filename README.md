@@ -1,1 +1,1 @@
-# MGECL_PR
+# Multi-granularity episodic contrastive learning for few-shot learning
